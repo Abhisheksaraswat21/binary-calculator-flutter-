@@ -1,6 +1,6 @@
-# calculator
+# This is a basic binary calculator created using flutter
 
-A new Flutter project.
+
 
 ## Getting Started
 
