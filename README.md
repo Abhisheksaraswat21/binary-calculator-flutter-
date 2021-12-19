@@ -1,8 +1,16 @@
-# This is a basic binary calculator created using flutter
+# calculator
 
-
+A new Flutter project.
 
 ## Getting Started
+
+# Here are some previews of the app.
+
+<img src = "form1.png"></img> 
+<img src = "form2.png"></img> 
+<img src = "form3.png"></img> 
+
+
 
 This project is a starting point for a Flutter application.
 
